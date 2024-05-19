@@ -110,7 +110,8 @@ p {
   color: #000000;
   margin-bottom: 13px;
   /* font-family: "Petit Formal Script", cursive; */
-  font-family: 'FontAwesome';
+  /* font-family: 'FontAwesome'; */
+  font-family: "Muli", sans-serif;
 }
 
 /* line 73, ../../Arafath/CL/CL september/212. Wedding/HTML/scss/theme-default.scss */
@@ -5338,6 +5339,9 @@ h3{
 .video-height{
   padding:25rem 25rem 25rem 25rem;
   position:relative;
+}
+.font-2{
+  font-size: 1.4rem;
 }
 @media (max-width: 800px) {
   .video-height{
